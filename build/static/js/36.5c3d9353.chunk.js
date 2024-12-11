@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkexample_firebase_template=self.webpackChunkexample_firebase_template||[]).push([[36],{656:(e,a,t)=>{t.r(a),t.d(a,{default:()=>r});var l=t(496);function r(){return(0,l.jsx)("h1",{children:"Not Found"})}}}]);
+//# sourceMappingURL=36.5c3d9353.chunk.js.map
